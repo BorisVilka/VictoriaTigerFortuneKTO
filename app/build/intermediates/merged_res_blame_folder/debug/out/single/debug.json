@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "com.tigerganme.fantastic.app-merged_res-52:/mipmap-xxhdpi_icon1.webp.flat",
+        "source": "com.tigerganme.fantastic.app-main-54:/mipmap-xxhdpi/icon1.webp"
+    },
+    {
+        "merged": "com.tigerganme.fantastic.app-merged_res-52:/mipmap-xxxhdpi_icon1_round.webp.flat",
+        "source": "com.tigerganme.fantastic.app-main-54:/mipmap-xxxhdpi/icon1_round.webp"
+    },
+    {
+        "merged": "com.tigerganme.fantastic.app-merged_res-52:/mipmap-xxxhdpi_icon1_foreground.webp.flat",
+        "source": "com.tigerganme.fantastic.app-main-54:/mipmap-xxxhdpi/icon1_foreground.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-xhdpi_icon_foreground.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-xhdpi/icon_foreground.webp"
+    },
+    {
+        "merged": "com.tigerganme.fantastic.app-merged_res-52:/mipmap-hdpi_icon1.webp.flat",
+        "source": "com.tigerganme.fantastic.app-main-54:/mipmap-hdpi/icon1.webp"
+    },
+    {
+        "merged": "com.tigerganme.fantastic.app-merged_res-52:/mipmap-mdpi_icon1_foreground.webp.flat",
+        "source": "com.tigerganme.fantastic.app-main-54:/mipmap-mdpi/icon1_foreground.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-xxxhdpi_icon_round.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-xxxhdpi/icon_round.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-hdpi_icon_round.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-hdpi/icon_round.webp"
+    },
+    {
+        "merged": "com.tigerganme.fantastic.app-merged_res-52:/mipmap-mdpi_icon1.webp.flat",
+        "source": "com.tigerganme.fantastic.app-main-54:/mipmap-mdpi/icon1.webp"
+    },
+    {
+        "merged": "com.tigerganme.fantastic.app-merged_res-52:/mipmap-xxhdpi_icon1_round.webp.flat",
+        "source": "com.tigerganme.fantastic.app-main-54:/mipmap-xxhdpi/icon1_round.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/layout_activity_main.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-xxhdpi_icon_round.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-xxhdpi/icon_round.webp"
+    },
+    {
+        "merged": "com.tigerganme.fantastic.app-merged_res-52:/mipmap-xxhdpi_icon1_foreground.webp.flat",
+        "source": "com.tigerganme.fantastic.app-main-54:/mipmap-xxhdpi/icon1_foreground.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-hdpi_icon_foreground.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-hdpi/icon_foreground.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/drawable_icon_background.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/drawable/icon_background.xml"
+    },
+    {
+        "merged": "com.tigerganme.fantastic.app-merged_res-52:/mipmap-xhdpi_icon1_foreground.webp.flat",
+        "source": "com.tigerganme.fantastic.app-main-54:/mipmap-xhdpi/icon1_foreground.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-mdpi_icon_foreground.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-mdpi/icon_foreground.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-xxhdpi_icon_foreground.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-xxhdpi/icon_foreground.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/raw_load.json.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/raw/load.json"
+    },
+    {
+        "merged": "com.tigerganme.fantastic.app-merged_res-52:/mipmap-anydpi-v26_icon1.xml.flat",
+        "source": "com.tigerganme.fantastic.app-main-54:/mipmap-anydpi-v26/icon1.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-xxxhdpi_icon_foreground.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-xxxhdpi/icon_foreground.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-mdpi_icon.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-mdpi/icon.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-xxhdpi_icon.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-xxhdpi/icon.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.tigerganme.fantastic.app-merged_res-52:/mipmap-hdpi_icon1_round.webp.flat",
+        "source": "com.tigerganme.fantastic.app-main-54:/mipmap-hdpi/icon1_round.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.tigerganme.fantastic.app-merged_res-52:/mipmap-xhdpi_icon1_round.webp.flat",
+        "source": "com.tigerganme.fantastic.app-main-54:/mipmap-xhdpi/icon1_round.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-xhdpi_icon_round.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-xhdpi/icon_round.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-anydpi-v26_icon_round.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-anydpi-v26/icon_round.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/drawable_name.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/drawable/name.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-xxxhdpi_icon.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-xxxhdpi/icon.webp"
+    },
+    {
+        "merged": "com.tigerganme.fantastic.app-merged_res-52:/mipmap-hdpi_icon1_foreground.webp.flat",
+        "source": "com.tigerganme.fantastic.app-main-54:/mipmap-hdpi/icon1_foreground.webp"
+    },
+    {
+        "merged": "com.tigerganme.fantastic.app-merged_res-52:/drawable_icon1_background.xml.flat",
+        "source": "com.tigerganme.fantastic.app-main-54:/drawable/icon1_background.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-xhdpi_icon.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-xhdpi/icon.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-anydpi-v26_icon.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-anydpi-v26/icon.xml"
+    },
+    {
+        "merged": "com.tigerganme.fantastic.app-merged_res-52:/mipmap-mdpi_icon1_round.webp.flat",
+        "source": "com.tigerganme.fantastic.app-main-54:/mipmap-mdpi/icon1_round.webp"
+    },
+    {
+        "merged": "com.tigerganme.fantastic.app-merged_res-52:/mipmap-anydpi-v26_icon1_round.xml.flat",
+        "source": "com.tigerganme.fantastic.app-main-54:/mipmap-anydpi-v26/icon1_round.xml"
+    },
+    {
+        "merged": "com.tigerganme.fantastic.app-merged_res-52:/mipmap-xxxhdpi_icon1.webp.flat",
+        "source": "com.tigerganme.fantastic.app-main-54:/mipmap-xxxhdpi/icon1.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-hdpi_icon.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-hdpi/icon.webp"
+    },
+    {
+        "merged": "com.tigerganme.fantastic.app-merged_res-52:/mipmap-xhdpi_icon1.webp.flat",
+        "source": "com.tigerganme.fantastic.app-main-54:/mipmap-xhdpi/icon1.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-mdpi_icon_round.webp.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-mdpi/icon_round.webp"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/layout_activity_loader.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/layout/activity_loader.xml"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/drawable_bg1.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/drawable/bg1.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-merged_res-52:/layout_activity_web.xml.flat",
+        "source": "/Users/new/.gradle/daemon/8.2/com.tigerganme.fantastic.app-main-54:/layout/activity_web.xml"
+    }
+]

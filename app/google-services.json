@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091995186921",
+    "project_id": "vitoria-tiger---fortune-kto",
+    "storage_bucket": "vitoria-tiger---fortune-kto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091995186921:android:95938ad7f8e855984b2278",
+        "android_client_info": {
+          "package_name": "com.tigerganme.fantastic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1m_VBUZ8GeJXEvw_GLhbjl9Jh41PvmZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

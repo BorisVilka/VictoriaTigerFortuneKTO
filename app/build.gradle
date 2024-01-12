@@ -1,0 +1,62 @@
+apply plugin: 'com.android.application'
+apply plugin: 'org.jetbrains.kotlin.android'
+apply plugin: 'com.google.gms.google-services'
+apply plugin: 'com.google.firebase.crashlytics'
+
+android {
+    compileSdk 34
+    namespace 'com.tigerganme.fantastic'
+
+    defaultConfig {
+        applicationId "com.tigerganme.fantastic"
+        minSdk 26
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    lintOptions {
+        disable 'SetJavaScriptEnabled'
+    }
+    buildFeatures {
+        dataBinding true
+    }
+}
+
+dependencies {
+    implementation 'com.google.android.gms:play-services-analytics:18.0.4'
+    implementation 'com.google.android.gms:play-services-ads-identifier:18.0.1'
+    implementation 'com.google.firebase:firebase-crashlytics-ktx:18.6.0'
+    implementation 'com.google.firebase:firebase-analytics-ktx:21.5.0'
+    implementation 'com.airbnb.android:lottie:5.2.0'
+    implementation 'com.google.code.gson:gson:2.9.0'
+    implementation('com.squareup.retrofit2:retrofit:2.9.0') {
+        exclude module: 'okhttp'
+    }
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+    implementation 'com.squareup.okhttp3:logging-interceptor:4.9.3'
+    implementation 'com.squareup.okhttp3:okhttp:4.9.3'
+    implementation "com.android.installreferrer:installreferrer:2.2"
+    implementation 'com.onesignal:OneSignal:4.8.7'
+    implementation 'io.reactivex.rxjava3:rxjava:3.0.13'
+    implementation 'io.reactivex.rxjava3:rxandroid:3.0.0'
+    implementation 'io.branch.sdk.android:library:5.4.0'
+   // implementation fileTree(dir: "libs", include: ["*.jar"])
+    implementation 'androidx.core:core-ktx:1.12.0'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.10.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+}

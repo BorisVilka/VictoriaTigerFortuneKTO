@@ -1,0 +1,55 @@
+com.tigerganme.fantastic.app-jetified-lifecycle-service-2.6.1-0 /Users/new/.gradle/caches/transforms-3/0c84f74357945bb3d170d4e16ee8ef74/transformed/jetified-lifecycle-service-2.6.1/res
+com.tigerganme.fantastic.app-jetified-play-services-measurement-api-21.5.0-1 /Users/new/.gradle/caches/transforms-3/1126b86e26d23d6476c398bf4e078add/transformed/jetified-play-services-measurement-api-21.5.0/res
+com.tigerganme.fantastic.app-jetified-play-services-basement-18.1.0-2 /Users/new/.gradle/caches/transforms-3/18b58c917bc9af56dc57654d782c2ad5/transformed/jetified-play-services-basement-18.1.0/res
+com.tigerganme.fantastic.app-lifecycle-livedata-2.6.1-3 /Users/new/.gradle/caches/transforms-3/1f5cdad3c83e66cdb06e16f02d9321f8/transformed/lifecycle-livedata-2.6.1/res
+com.tigerganme.fantastic.app-jetified-viewpager2-1.0.0-4 /Users/new/.gradle/caches/transforms-3/3f3364b60a0d3379a28f6951be605cc2/transformed/jetified-viewpager2-1.0.0/res
+com.tigerganme.fantastic.app-jetified-datastore-preferences-1.0.0-5 /Users/new/.gradle/caches/transforms-3/41b93a990d55ceaed37cb89333c28396/transformed/jetified-datastore-preferences-1.0.0/res
+com.tigerganme.fantastic.app-jetified-lifecycle-process-2.6.1-6 /Users/new/.gradle/caches/transforms-3/455d3cda41daf118f49936bb75876019/transformed/jetified-lifecycle-process-2.6.1/res
+com.tigerganme.fantastic.app-jetified-firebase-messaging-23.0.0-7 /Users/new/.gradle/caches/transforms-3/462b200227083509ffa1bc88defdb8f6/transformed/jetified-firebase-messaging-23.0.0/res
+com.tigerganme.fantastic.app-jetified-lottie-5.2.0-8 /Users/new/.gradle/caches/transforms-3/4715a4f54eecb429cb3174e63528aedf/transformed/jetified-lottie-5.2.0/res
+com.tigerganme.fantastic.app-cardview-1.0.0-9 /Users/new/.gradle/caches/transforms-3/511458c4920f20ea646eb643f27d7b79/transformed/cardview-1.0.0/res
+com.tigerganme.fantastic.app-jetified-emoji2-views-helper-1.2.0-10 /Users/new/.gradle/caches/transforms-3/515e56c8e94499ed758a63fb01eb6435/transformed/jetified-emoji2-views-helper-1.2.0/res
+com.tigerganme.fantastic.app-databinding-adapters-8.1.2-11 /Users/new/.gradle/caches/transforms-3/543831c130b86e55df0705b2275aa9f6/transformed/databinding-adapters-8.1.2/res
+com.tigerganme.fantastic.app-browser-1.3.0-12 /Users/new/.gradle/caches/transforms-3/576da683b21677938ba26fd666d03afe/transformed/browser-1.3.0/res
+com.tigerganme.fantastic.app-databinding-runtime-8.1.2-13 /Users/new/.gradle/caches/transforms-3/6c53944747a3020a2e8f809307ecd283/transformed/databinding-runtime-8.1.2/res
+com.tigerganme.fantastic.app-drawerlayout-1.1.1-14 /Users/new/.gradle/caches/transforms-3/6db8542dae9907ef5a3259a9c1b73dd4/transformed/drawerlayout-1.1.1/res
+com.tigerganme.fantastic.app-jetified-profileinstaller-1.3.0-15 /Users/new/.gradle/caches/transforms-3/759bcab6b31db493d9da2e65abeae32b/transformed/jetified-profileinstaller-1.3.0/res
+com.tigerganme.fantastic.app-jetified-appcompat-resources-1.6.1-16 /Users/new/.gradle/caches/transforms-3/795caf65db2d906634c4d3d0e5774dff/transformed/jetified-appcompat-resources-1.6.1/res
+com.tigerganme.fantastic.app-jetified-savedstate-1.2.1-17 /Users/new/.gradle/caches/transforms-3/7a3348e384c790c071af079622d5610b/transformed/jetified-savedstate-1.2.1/res
+com.tigerganme.fantastic.app-core-1.12.0-18 /Users/new/.gradle/caches/transforms-3/7c5044b8c0650d29c54b90361120f9e1/transformed/core-1.12.0/res
+com.tigerganme.fantastic.app-work-runtime-2.7.1-19 /Users/new/.gradle/caches/transforms-3/82960194855fa904f522009018a28de9/transformed/work-runtime-2.7.1/res
+com.tigerganme.fantastic.app-constraintlayout-2.1.4-20 /Users/new/.gradle/caches/transforms-3/8a427179011cd4de0e98d56947df12df/transformed/constraintlayout-2.1.4/res
+com.tigerganme.fantastic.app-fragment-1.3.6-21 /Users/new/.gradle/caches/transforms-3/8b7f71ac32e1b5fc6dc80e6cc49bf5d8/transformed/fragment-1.3.6/res
+com.tigerganme.fantastic.app-jetified-annotation-experimental-1.3.0-22 /Users/new/.gradle/caches/transforms-3/9a34347f4ef9ea4f08874f6b2c96798e/transformed/jetified-annotation-experimental-1.3.0/res
+com.tigerganme.fantastic.app-recyclerview-1.1.0-23 /Users/new/.gradle/caches/transforms-3/9c71b5dd6eac92e4f2e24a2bfb1b4153/transformed/recyclerview-1.1.0/res
+com.tigerganme.fantastic.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-24 /Users/new/.gradle/caches/transforms-3/a276b0e5d78219482270f76c78526fe2/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/res
+com.tigerganme.fantastic.app-material-1.10.0-25 /Users/new/.gradle/caches/transforms-3/a2883a0580c26a8046ba3ac3118ce53e/transformed/material-1.10.0/res
+com.tigerganme.fantastic.app-jetified-play-services-base-18.0.1-26 /Users/new/.gradle/caches/transforms-3/aacfc45179da5f5df57ac1405419aa0b/transformed/jetified-play-services-base-18.0.1/res
+com.tigerganme.fantastic.app-media-1.0.0-27 /Users/new/.gradle/caches/transforms-3/add28f15dec31e8a4b531660e9f8a62c/transformed/media-1.0.0/res
+com.tigerganme.fantastic.app-jetified-OneSignal-4.8.7-28 /Users/new/.gradle/caches/transforms-3/bc843130268ff4ea35b36a85c269c2ed/transformed/jetified-OneSignal-4.8.7/res
+com.tigerganme.fantastic.app-lifecycle-livedata-core-2.6.1-29 /Users/new/.gradle/caches/transforms-3/bd580517c691b33925462db25795bfc9/transformed/lifecycle-livedata-core-2.6.1/res
+com.tigerganme.fantastic.app-lifecycle-viewmodel-2.6.1-30 /Users/new/.gradle/caches/transforms-3/c4e75df3a0cec26c866cd7a8287a00f4/transformed/lifecycle-viewmodel-2.6.1/res
+com.tigerganme.fantastic.app-transition-1.2.0-31 /Users/new/.gradle/caches/transforms-3/c80d216faf16fe0eb3fd7ce725c78339/transformed/transition-1.2.0/res
+com.tigerganme.fantastic.app-jetified-ads-adservices-java-1.0.0-beta05-32 /Users/new/.gradle/caches/transforms-3/dab836aa32a718619ace987fcca89586/transformed/jetified-ads-adservices-java-1.0.0-beta05/res
+com.tigerganme.fantastic.app-appcompat-1.6.1-33 /Users/new/.gradle/caches/transforms-3/dba481f4dc0d0bdcce15b6213d08e894/transformed/appcompat-1.6.1/res
+com.tigerganme.fantastic.app-jetified-lifecycle-runtime-ktx-2.6.1-34 /Users/new/.gradle/caches/transforms-3/ddd3378e7133b7531153fd9cc842af40/transformed/jetified-lifecycle-runtime-ktx-2.6.1/res
+com.tigerganme.fantastic.app-lifecycle-runtime-2.6.1-35 /Users/new/.gradle/caches/transforms-3/e3a4ebb823d0b8e203d322d8c9601fe6/transformed/lifecycle-runtime-2.6.1/res
+com.tigerganme.fantastic.app-core-runtime-2.2.0-36 /Users/new/.gradle/caches/transforms-3/e4a9955e1afda247649de0db6ee246cd/transformed/core-runtime-2.2.0/res
+com.tigerganme.fantastic.app-jetified-datastore-1.0.0-37 /Users/new/.gradle/caches/transforms-3/e9eb6ad3104aa732d57cdff59d98b3e9/transformed/jetified-datastore-1.0.0/res
+com.tigerganme.fantastic.app-jetified-firebase-common-20.4.2-38 /Users/new/.gradle/caches/transforms-3/eaa754ce2b2961f0bc6bbfedab80e66c/transformed/jetified-firebase-common-20.4.2/res
+com.tigerganme.fantastic.app-coordinatorlayout-1.1.0-39 /Users/new/.gradle/caches/transforms-3/eb128c624dda39cf1e417f9aa57f2836/transformed/coordinatorlayout-1.1.0/res
+com.tigerganme.fantastic.app-jetified-ads-adservices-1.0.0-beta05-40 /Users/new/.gradle/caches/transforms-3/ef53a3980c5d27d39dd0c53366585c1e/transformed/jetified-ads-adservices-1.0.0-beta05/res
+com.tigerganme.fantastic.app-jetified-activity-1.8.0-41 /Users/new/.gradle/caches/transforms-3/f186984df1a7c4964441fe63dc0d2892/transformed/jetified-activity-1.8.0/res
+com.tigerganme.fantastic.app-jetified-firebase-appindexing-19.0.0-42 /Users/new/.gradle/caches/transforms-3/f4473c799b1b7fff9fb4b0e3d543e587/transformed/jetified-firebase-appindexing-19.0.0/res
+com.tigerganme.fantastic.app-jetified-emoji2-1.2.0-43 /Users/new/.gradle/caches/transforms-3/f5255b05414c64da58a9988613883f82/transformed/jetified-emoji2-1.2.0/res
+com.tigerganme.fantastic.app-jetified-core-ktx-1.12.0-44 /Users/new/.gradle/caches/transforms-3/fb45fa808b50a705aabb25ad042b31c9/transformed/jetified-core-ktx-1.12.0/res
+com.tigerganme.fantastic.app-jetified-startup-runtime-1.1.1-45 /Users/new/.gradle/caches/transforms-3/ff9de96fca2dfb6ddc4c0fdc674102a6/transformed/jetified-startup-runtime-1.1.1/res
+com.tigerganme.fantastic.app-res-46 /Users/new/AndroidStudioProjects/Victoria tiger/app/build/generated/crashlytics/res/debug
+com.tigerganme.fantastic.app-google-services-47 /Users/new/AndroidStudioProjects/Victoria tiger/app/build/generated/res/google-services/debug
+com.tigerganme.fantastic.app-pngs-48 /Users/new/AndroidStudioProjects/Victoria tiger/app/build/generated/res/pngs/debug
+com.tigerganme.fantastic.app-resValues-49 /Users/new/AndroidStudioProjects/Victoria tiger/app/build/generated/res/resValues/debug
+com.tigerganme.fantastic.app-packageDebugResources-50 /Users/new/AndroidStudioProjects/Victoria tiger/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.tigerganme.fantastic.app-packageDebugResources-51 /Users/new/AndroidStudioProjects/Victoria tiger/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.tigerganme.fantastic.app-merged_res-52 /Users/new/AndroidStudioProjects/Victoria tiger/app/build/intermediates/merged_res/debug
+com.tigerganme.fantastic.app-debug-53 /Users/new/AndroidStudioProjects/Victoria tiger/app/src/debug/res
+com.tigerganme.fantastic.app-main-54 /Users/new/AndroidStudioProjects/Victoria tiger/app/src/main/res

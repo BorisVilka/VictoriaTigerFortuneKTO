@@ -1,0 +1,4 @@
+#Tue Jan 09 03:10:56 MSK 2024
+base.0=/Users/new/AndroidStudioProjects/Victoria tiger/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

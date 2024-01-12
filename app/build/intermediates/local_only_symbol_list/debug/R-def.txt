@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+drawable bg1
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable icon1_background
+drawable icon_background
+drawable name
+id web
+id webView
+layout activity_loader
+layout activity_main
+layout activity_web
+mipmap ic_launcher
+mipmap ic_launcher_round
+mipmap icon
+mipmap icon1
+mipmap icon1_foreground
+mipmap icon1_round
+mipmap icon_foreground
+mipmap icon_round
+raw load
+string app_name
+string com.google.firebase.crashlytics.mapping_file_id
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
+string project_id
+style AppTheme

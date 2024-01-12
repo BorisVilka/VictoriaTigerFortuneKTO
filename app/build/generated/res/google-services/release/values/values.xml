@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1091995186921</string>
+    <string name="google_api_key" translatable="false">AIzaSyB1m_VBUZ8GeJXEvw_GLhbjl9Jh41PvmZY</string>
+    <string name="google_app_id" translatable="false">1:1091995186921:android:95938ad7f8e855984b2278</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB1m_VBUZ8GeJXEvw_GLhbjl9Jh41PvmZY</string>
+    <string name="google_storage_bucket" translatable="false">vitoria-tiger---fortune-kto.appspot.com</string>
+    <string name="project_id" translatable="false">vitoria-tiger---fortune-kto</string>
+</resources>

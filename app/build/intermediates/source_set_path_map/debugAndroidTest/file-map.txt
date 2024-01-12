@@ -1,0 +1,4 @@
+com.tigerganme.fantastic.test.app-androidTest-0 /Users/new/AndroidStudioProjects/Victoria tiger/app/build/generated/res/resValues/androidTest/debug
+com.tigerganme.fantastic.test.app-mergeDebugAndroidTestResources-1 /Users/new/AndroidStudioProjects/Victoria tiger/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.tigerganme.fantastic.test.app-mergeDebugAndroidTestResources-2 /Users/new/AndroidStudioProjects/Victoria tiger/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.tigerganme.fantastic.test.app-merged_res-3 /Users/new/AndroidStudioProjects/Victoria tiger/app/build/intermediates/merged_res/debugAndroidTest
